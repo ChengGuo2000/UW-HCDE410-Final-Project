@@ -1,2 +1,2 @@
-# hcde-410-final
-HCDE 410 Final Project
+# HCDE 410 Final Project
+Mushroom Classification Model
