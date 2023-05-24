@@ -1,0 +1,3 @@
+Abstract
+
+The goal of this project is about building a machine-learning model that can predict a mushroom's edibility based on its appearance. The reason I want to conduct this project is that I have friends who live in areas where there are abundant mushrooms, and I am eager to learn about how to choose edible mushrooms based on their appearances in the wild, so I want to build this model based on the dataset I found. 
